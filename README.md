@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuslanLiapin
 - 👀 I’m interested in literature, movies and front-end development.
-- 🌱 I’m currently learning CSS, HTML and JavaScript
+- 🌱 I’m currently learning React
 
 
 <!---
