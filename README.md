@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuslanLiapin
-- 👀 I’m interested in literature, movies and front-end development.
+- 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning React
 
 
